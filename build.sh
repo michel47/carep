@@ -1,6 +1,6 @@
 #
 
-img_url='https://mystuff.bublup.com/ui/landing_page?item_id=001-i-d16a3732-dc51-4d8c-bc4c-f7a7379be713'
+img_url='https://bublup-media-production.s3.amazonaws.com/uuPXtyuX0ok50yi0CPzPLA/images/full_007-im-a72beb2f-850e-404a-9129-900ce78d86af.png'
 curl -o krystal-water.png $img_url
 perl dat2ppm.pl krystal-water.png
 
